@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there, Emanuele here 👋
 
-I am Emanuele Coluccini a Junionr Frontedn developer:)
+Ready to enjoy open source projects! :D
